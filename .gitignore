@@ -54,3 +54,4 @@ screenshots
 # SPM
 
 .build/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
